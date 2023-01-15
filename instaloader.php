@@ -2,7 +2,7 @@
 echo "WELCOME TO THIS TOOL \n";
 $username=readline("the username of instagram : ");
 
-$path='test/'.$username;
+$path='/content/drive/MyDrive/'.$username;
 mkdir($path);
 
 
